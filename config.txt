@@ -16,8 +16,8 @@
 # 所在城市
 "city": "郑州",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-r"birthday1": {"name": "小美", "birthday": "2003-05-03"},
-r"birthday2": {"name": "小帅", "birthday": "2002-08-26"},
+"birthday1": {"name": "小美", "birthday": "r2003-05-03"},
+"birthday2": {"name": "小帅", "birthday": "r2002-08-26"},
 # 在一起的日子，格式同上
 "love_date": "2022-05-12"
 }
