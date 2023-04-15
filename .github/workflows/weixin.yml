@@ -1,7 +1,6 @@
 name: weixin
 on:
   schedule:
-#   - cron:  '01 0 * * *'
   - cron:  '0 0 8 * * * Asia/Shanghai'
   workflow_dispatch:
 
